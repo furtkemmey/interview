@@ -1,4 +1,4 @@
-# interview
+# interview 面試常見問題整理
 #  Life cycle生命週期
 [https://medium.com/@ChunYeung/swift-%E8%AB%87%E8%AB%87%E5%B9%BE%E5%80%8B%E9%87%8D%E8%A6%81%E7%9A%84-ios-app-life-cycle-%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F-93380fe93d95](https://medium.com/@ChunYeung/swift-%E8%AB%87%E8%AB%87%E5%B9%BE%E5%80%8B%E9%87%8D%E8%A6%81%E7%9A%84-ios-app-life-cycle-%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F-93380fe93d95)
 
